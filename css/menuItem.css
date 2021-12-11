@@ -1,0 +1,11 @@
+.menuItem {
+  border: 1px solid green;
+}
+
+.menuItem a {
+  border: 1px solid red;
+  display: block;
+  font: var(--button);
+  padding-inline-start: 1.5rem;
+  padding-inline-end: 1.5rem;
+}
